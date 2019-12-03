@@ -1,0 +1,45 @@
+.divPer{
+	background: white;  
+	margin:0 ;
+}
+
+
+.divOpc .titulo{
+	color: white;
+	margin: 10px;
+	border-radius: 20px;
+	background: #E06161;;
+}
+
+.perfil{
+	display: block;
+	margin: auto;
+	width: 300px;
+	height: 300px;
+	padding: 5px;
+}
+
+.lista{
+	color: white;
+	border-style:solid;
+	border-width: 0.5px;
+	border-color: white;
+	padding:  20px;
+	background: #29ad44;;  
+}
+
+.lista:hover{
+	font-weight:  bold ;
+	text-decoration: none;
+	background:#5AAD6B;
+}
+ul{
+       list-style:none;
+       }
+a{
+	text-align: center;
+}
+a:hover{
+	display: block;
+	text-decoration: none;
+}

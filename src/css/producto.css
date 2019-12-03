@@ -1,0 +1,13 @@
+.map{
+	width: 350px;
+	height: 350px;
+	padding: 60px;
+	border-radius: 15px;
+	border-style: solid;
+	border:black,black,black,black ;
+
+}
+
+.mapa{
+	padding: 32px;
+}

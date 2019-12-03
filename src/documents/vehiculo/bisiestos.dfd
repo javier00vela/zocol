@@ -1,0 +1,54 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+4
+year
+1
+0
+5
+1
+4
+year
+7
+0
+1
+12
+year mod 4=0
+4
+1
+16
+'no es bisiesto'
+13
+7
+0
+1
+14
+year mod 400=0
+4
+1
+16
+'no es bisiesto'
+13
+7
+0
+1
+14
+year mod 100=0
+4
+1
+10
+'bisiesto'
+13
+4
+1
+16
+'no es bisiesto'
+13
+13
+13
+1

@@ -1,0 +1,22 @@
+.ingresar{
+	padding: 20px;
+}
+
+
+.login{
+border-style: groove ;
+	border:black black black black;
+border-radius: 20px;
+margin: 20px;
+}
+
+.registrar{
+	border-style: groove ;
+	border:black black black black;
+	border-radius: 20px;
+	margin:20px;
+}
+
+.contReg span {
+	padding: 5px;
+}

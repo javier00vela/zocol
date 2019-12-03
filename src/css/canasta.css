@@ -1,0 +1,73 @@
+.btn{
+    margin-top: 10%;
+}
+
+input{
+	background: green;
+	display: flex;
+    align-items: center;
+}
+
+h6 input{
+	margin-top: 7%;
+}
+
+.precio label{
+	margin-top:  16%;
+}
+
+.nombre label{
+	margin-top:  10%;
+}
+
+.txt1{
+	background: #969393;
+	color: #fff;
+}
+
+.txt2{
+	background: #969393;
+	color: #fff;
+}
+.txt3{
+	background: #969393;
+	color: #fff;
+}
+.txt4{
+	background: #969393;
+	color: #fff;
+}
+.txt5{
+	background: #969393;
+	color: #fff;
+}
+
+.cuadro{
+	border-radius: 15px;
+	height: 550px;
+
+	padding: 10px;
+
+}
+
+.textoCanasta{
+	line-height: 300px;
+}
+
+.contenedor{
+	border-radius: 15px;
+	padding: 20px;
+}
+
+.emptyImage{
+	margin-top: -100px;
+	width: 300px;
+	height: 250px;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,99 @@
+@font-face {
+  font-family: "SFNewRepublic";
+  src: url("../fonts/fuente/SFNewRepublic.ttf");
+}
+
+@font-face {
+  font-family:"FashionFetish";
+  src: url("../fonts/fuente/FashionFetish.ttf");
+}
+
+@font-face {
+  font-family:"Now-Light";
+  src: url("../fonts/fuente/Now-Light.otf");
+}
+
+
+body{
+  padding-top: 80px;
+}
+
+p ,a,label,li{
+	font-family: "Now-Light";
+}
+
+.pag{
+	padding: 20px;
+}
+
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+
+.subtitulo{
+  font-family: "Now-Light";
+margin: 10px;
+color: white;
+  border-radius: 20px;
+  background:#696969;
+}
+
+.descripcion{
+  height: 200px;
+}
+
+
+.emptyImage{
+  margin-top: -100px;
+  width: 300px;
+  height: 250px;
+}
+
+.cuadro{
+  border-radius: 15px;
+  height: 550px;
+
+  padding: 10px;
+
+}
+
+.textoCanasta{
+  line-height: 300px;
+}
+
+a{
+  color: white;
+    font-family: "Now-Light";
+
+}
+
+a:hover{
+    font-family: "Now-Light";
+  color: white;
+}
+
+
+footer {
+  background: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 45px;
+}

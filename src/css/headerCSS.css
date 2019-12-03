@@ -1,0 +1,106 @@
+
+
+body{
+	padding-top: 100px;
+}
+.titleDIV{
+	color: white;
+	height: 60px;
+    justify-content: center;
+	background:#483D8B;  
+}
+
+#input-search-make{
+	border: 2px solid white;
+    border-radius: 4px;
+    background: #CAC7C7;
+    color: white;
+}
+
+
+.logo{
+	height: 50px;
+	width: 50px;
+}
+
+.imgPerfilUser{
+	width: 30px;
+	height: 30px;
+	margin-right: -60px;
+}
+
+.titulo{
+	font-family: "SFNewRepublic";
+	line-height: 45px;
+	font-size: 25px;
+}
+
+.navbar{
+	background:#C0C0C0;
+}
+
+.barra{
+	background: #190744;
+}
+
+
+.nav-item{
+	margin-left: 40px;
+	line-height: 10px;
+	height: 30px;
+}
+
+.usuario{
+	margin-top: -10px;
+}
+
+.main{
+	margin-left: -20px;
+	width: 102.5%;
+}
+
+
+
+.imageProduct{
+	border-radius: 10px;
+	border-style: groove;
+	height: 150px;
+	width:  150px;
+	 display:flex;
+  margin:0 auto;
+}
+
+.contProduct{
+	padding: 10px;
+	border-radius: 10px;
+	max-width: 15%;
+display:inline;
+}
+
+.menu{
+	margin-top: 15px;
+	color: black;
+}
+
+.cat{
+	color: black;
+}
+
+.cat:hover{
+	background: #C0C0C0;
+}
+
+.mensaje{
+	padding: 166px;
+}
+
+.usuario{
+	line-height: 20px;
+}
+
+
+
+
+
+
+
